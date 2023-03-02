@@ -1,5 +1,5 @@
 {
-	"name": "Code - OSS",
+	"name": "IGE-CODE TERMINAL",
 
 	// Image contents: https://github.com/microsoft/vscode-dev-containers/blob/master/repository-containers/images/github.com/microsoft/vscode/.devcontainer/base.Dockerfile
 	"image": "mcr.microsoft.com/vscode/devcontainers/repos/microsoft/vscode:branch-main",
@@ -16,6 +16,7 @@
 			"extensions": [
 				"dbaeumer.vscode-eslint",
 				"mutantdino.resourcemonitor"
+				"ghcr.io/rjfmachado/devcontainer-features/cloud-native:1": {}
 			]
 		}
 	},

@@ -137,7 +137,7 @@
     "watch": "gulp watch-extension:github"
   },
   "dependencies": {
-    "@octokit/rest": "19.0.4",
+    "@octokit/rest": "19.0.7",
     "tunnel": "^0.0.6"
   },
   "devDependencies": {
